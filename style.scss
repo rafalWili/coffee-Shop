@@ -387,6 +387,16 @@ font-weight: 300;
     
 
 }
+
+.rowBrewing{
+  @include mediaXS{
+    margin-right: 0px;
+  }
+  @include mediaSM{
+    margin-right: 0px;
+  }
+}
+
 #Row-offer{
     margin: 0;
     padding: 0;

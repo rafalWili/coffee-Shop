@@ -307,6 +307,13 @@ a:active {
   margin-top: 100px;
   margin-bottom: 100px; }
 
+@media (max-width: 575px) {
+  .rowBrewing {
+    margin-right: 0px; } }
+@media (min-width: 576px) and (max-width: 767px) {
+  .rowBrewing {
+    margin-right: 0px; } }
+
 #Row-offer {
   margin: 0;
   padding: 0;
